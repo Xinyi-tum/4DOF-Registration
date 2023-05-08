@@ -1,1 +1,1 @@
-# Novel-4DOF-Registration
+# 4DOF-Registration
