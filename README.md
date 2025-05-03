@@ -38,7 +38,7 @@ Refer to the demo script for usage patterns and helper functions.
 ├── functions/              # Core algorithm and helper utilities
 ├── example_4DoF.m          # Demo scripts for synthetic data generation and registration
 ├── main_fig.png            # Main pipeline illustration of our method
-├── LICENSE                 # MIT License
+├── LICENSE                 # License
 └── README.md               # Project overview and usage
 ```
 
